@@ -1,3 +1,3 @@
 # hello-world
-my first git repo
-this is my first git experiments
+my first git repository
+this is my first git experimental in repo hello-world
